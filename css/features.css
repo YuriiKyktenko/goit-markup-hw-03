@@ -1,5 +1,5 @@
 /* Features */
-#features > .container {
+.features > .container {
   width: auto;
   max-width: 1158px;
 }
