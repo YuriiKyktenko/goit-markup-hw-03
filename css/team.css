@@ -1,0 +1,11 @@
+/* Team */
+.team {
+  background-color: var(--light);
+}
+.team-card {
+  border-radius: 0 0 4px 4px;
+}
+.team-card-content {
+  padding: 32px 0;
+  text-align: center;
+}

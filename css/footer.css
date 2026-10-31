@@ -1,0 +1,16 @@
+/* Footer */
+.footer {
+  padding: 100px 0;
+  background-color: var(--dark);
+}
+.footer .logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.logo-accent-footer,
+.footer-text {
+  color: var(--light);
+}
+.footer-text {
+  max-width: 264px;
+}

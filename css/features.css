@@ -1,0 +1,10 @@
+/* Values */
+.values-list,
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+.values-list > li,
+.team-card {
+  width: calc((100% - 72px) / 4);
+}
