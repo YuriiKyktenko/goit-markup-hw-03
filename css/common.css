@@ -66,3 +66,20 @@ img {
 .card {
   background-color: var(--white);
 }
+:root {
+  --brand: #4d5ae5;
+  --brand-hover: #404bbf;
+  --dark: #2e2f42;
+  --text: #434455;
+  --white: #ffffff;
+  --light: #f4f4fd;
+  --border: #e7e9fc;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--text);
+  background-color: var(--white);
+}
