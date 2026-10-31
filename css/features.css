@@ -1,10 +1,12 @@
-/* Values */
-.values-list,
-.team-list {
+/* Features */
+#features > .container {
+  width: auto;
+  max-width: 1158px;
+}
+.values-list {
   display: flex;
   gap: 24px;
 }
-.values-list > li,
-.team-card {
+.values-list > li {
   width: calc((100% - 72px) / 4);
 }

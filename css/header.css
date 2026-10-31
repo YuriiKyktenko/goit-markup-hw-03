@@ -18,7 +18,7 @@
   text-transform: uppercase;
   color: var(--brand);
 }
-.nav .logo {
+.header-container > .logo {
   margin-right: 76px;
 }
 .logo-accent {
